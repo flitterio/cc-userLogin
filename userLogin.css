@@ -1,0 +1,12 @@
+html{
+    text-align: center;
+}
+
+nav, footer{
+    background-color: gray;
+}
+
+form{
+    background-color: lightgrey;
+    margin: 15px;
+}
